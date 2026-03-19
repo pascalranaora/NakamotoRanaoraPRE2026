@@ -1,4 +1,7 @@
 # Nakamoto Ranaora PRE 2026
+
+<img width="778" height="836" alt="Dimension Unit" src="https://github.com/user-attachments/assets/10604d3b-95ea-4e50-ae8a-8f56ed691eb7" />
+
 <img width="840" height="742" alt="Figure1Screenshot" src="https://github.com/user-attachments/assets/3747fe48-5d21-45bd-b5d6-50a8f9cd254d" />
 
 <img width="840" height="705" alt="Figure2Screenshot" src="https://github.com/user-attachments/assets/403b0c9d-db50-43af-b97c-4f01f02ba2a7" />
@@ -9,14 +12,16 @@
 
 <img width="840" height="676" alt="Figure5Screenshot" src="https://github.com/user-attachments/assets/f988bbc3-699e-45b9-91b4-889536834e3f" />
 
-<img width="840" height="720" alt="Figure6Screenshot" src="https://github.com/user-attachments/assets/6448067b-4796-482d-a36c-899429c8ad71" />
+<img width="840" height="933" alt="Figure6Screenshot" src="https://github.com/user-attachments/assets/102cc934-04c6-4487-a91a-29509fe582e9" />
 
-<img width="840" height="629" alt="Figure7Screenshot" src="https://github.com/user-attachments/assets/33b30c97-86bd-4eb0-8eb1-b9bf0359bdcb" />
+<img width="840" height="731" alt="Figure7Screenshot" src="https://github.com/user-attachments/assets/7ad727e8-45dc-441a-8095-453b7e71bd6d" />
 
-<img width="840" height="790" alt="Figure8Screenshot" src="https://github.com/user-attachments/assets/433e7e28-c755-45a8-862f-1ee011b09309" />
+<img width="840" height="553" alt="Figure8Screenshot" src="https://github.com/user-attachments/assets/64b15943-9796-442c-bb84-14c490be9633" />
 
-<img width="840" height="725" alt="Figure9Screenshot" src="https://github.com/user-attachments/assets/6dc0fc05-ee1d-4421-8107-56dd04531d7e" />
+<img width="840" height="775" alt="Figure9Screenshot" src="https://github.com/user-attachments/assets/47506c31-c06d-45d1-8a6d-89bdd376dcd3" />
 
-<img width="840" height="998" alt="Figure10Screenshot" src="https://github.com/user-attachments/assets/eda3aa6c-1688-4d6c-a0e8-4b3aa99e87c9" />
+<img width="840" height="782" alt="Figure10Screenshot" src="https://github.com/user-attachments/assets/ddc76663-6a88-454e-8eb3-6dd70c602c1a" />
+
+<img width="840" height="1030" alt="Figure11Screenshot" src="https://github.com/user-attachments/assets/c967d8b1-2395-4e83-aa2b-53a622a2006c" />
 
 
