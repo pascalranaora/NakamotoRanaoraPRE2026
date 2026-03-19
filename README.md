@@ -1,5 +1,5 @@
 # Nakamoto Ranaora PRE 2026
-<img width="840" height="751" alt="Figure1Screenshot" src="https://github.com/user-attachments/assets/a91184a2-267a-4153-a33e-f9b1dc92bad7" />
+<img width="840" height="742" alt="Figure1Screenshot" src="https://github.com/user-attachments/assets/3747fe48-5d21-45bd-b5d6-50a8f9cd254d" />
 
 <img width="840" height="705" alt="Figure2Screenshot" src="https://github.com/user-attachments/assets/403b0c9d-db50-43af-b97c-4f01f02ba2a7" />
 
