@@ -1,26 +1,35 @@
 # Nakamoto Ranaora PRE 2026
-<img width="840" height="1076" alt="Dimension Unit" src="https://github.com/user-attachments/assets/8d93b00b-1908-49fa-82fd-9f52535a3be4" />
+<img width="840" height="861" alt="ArticlePlan" src="https://github.com/user-attachments/assets/c54d0057-650e-4dec-b7b8-43ccfd2acd04" />
 
-<img width="840" height="742" alt="Figure1Screenshot" src="https://github.com/user-attachments/assets/3747fe48-5d21-45bd-b5d6-50a8f9cd254d" />
+<img width="840" height="637" alt="Figure1Screenshot" src="https://github.com/user-attachments/assets/67b97e28-33a0-4785-942a-649a4b922840" />
 
-<img width="840" height="705" alt="Figure2Screenshot" src="https://github.com/user-attachments/assets/403b0c9d-db50-43af-b97c-4f01f02ba2a7" />
+<img width="840" height="633" alt="Figure2Screenshot" src="https://github.com/user-attachments/assets/309da192-9fb3-4b52-9f1d-537c4c714988" />
 
-<img width="840" height="651" alt="Figure3Screenshot" src="https://github.com/user-attachments/assets/74871624-390f-4f92-9024-1e9241c70d53" />
+<img width="840" height="593" alt="Figure3Screenshot" src="https://github.com/user-attachments/assets/b2df71c8-48e1-4fb8-853f-5c18f6ddab1a" />
 
-<img width="840" height="551" alt="Figure4Screenshot" src="https://github.com/user-attachments/assets/63fcd04e-63c5-4a33-b900-716b140a9aad" />
+<img width="840" height="521" alt="Figure4Screenshot" src="https://github.com/user-attachments/assets/7247c777-8be5-4efc-9023-2b95452bcbc8" />
 
-<img width="840" height="676" alt="Figure5Screenshot" src="https://github.com/user-attachments/assets/f988bbc3-699e-45b9-91b4-889536834e3f" />
+<img width="840" height="578" alt="Figure5Screenshot" src="https://github.com/user-attachments/assets/01eb34c7-d382-4812-b9d9-e55269c1dd8a" />
 
-<img width="840" height="933" alt="Figure6Screenshot" src="https://github.com/user-attachments/assets/102cc934-04c6-4487-a91a-29509fe582e9" />
+<img width="840" height="854" alt="Figure6Screenshot" src="https://github.com/user-attachments/assets/d4eaddb1-4b13-41b3-8fc5-3d6aa8ae4e86" />
 
-<img width="840" height="731" alt="Figure7Screenshot" src="https://github.com/user-attachments/assets/7ad727e8-45dc-441a-8095-453b7e71bd6d" />
+<img width="840" height="640" alt="Figure7Screenshot" src="https://github.com/user-attachments/assets/f28d8c8a-94e9-4a35-aff9-6ba1f62e228e" />
 
-<img width="840" height="553" alt="Figure8Screenshot" src="https://github.com/user-attachments/assets/64b15943-9796-442c-bb84-14c490be9633" />
+<img width="840" height="549" alt="Figure8Screenshot" src="https://github.com/user-attachments/assets/28c91242-a737-4330-a6a5-78e31977452c" />
 
-<img width="840" height="775" alt="Figure9Screenshot" src="https://github.com/user-attachments/assets/47506c31-c06d-45d1-8a6d-89bdd376dcd3" />
+<img width="840" height="638" alt="Figure9Screenshot" src="https://github.com/user-attachments/assets/607296f1-7727-424c-8051-568c59e790e5" />
 
-<img width="840" height="782" alt="Figure10Screenshot" src="https://github.com/user-attachments/assets/ddc76663-6a88-454e-8eb3-6dd70c602c1a" />
+<img width="840" height="671" alt="Figure10Screenshot" src="https://github.com/user-attachments/assets/a5884a80-0f0b-4bc7-8ea2-a8f25a56295d" />
 
-<img width="840" height="1030" alt="Figure11Screenshot" src="https://github.com/user-attachments/assets/c967d8b1-2395-4e83-aa2b-53a622a2006c" />
+<img width="840" height="778" alt="Figure11Screenshot" src="https://github.com/user-attachments/assets/58eeca9e-dd26-4716-aef3-016f1146ed8f" />
+
+<img width="840" height="1080" alt="Variables" src="https://github.com/user-attachments/assets/60286b06-e340-4e44-90be-facde7e1ee03" />
+
+
+
+
+
+
+
 
 
