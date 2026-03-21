@@ -1,4 +1,4 @@
-# Nakamoto Ranaora PRE 2026
+# Statistical Physics of Distributed Consensus PRE 2026
 <img width="840" height="861" alt="ArticlePlan" src="https://github.com/user-attachments/assets/c54d0057-650e-4dec-b7b8-43ccfd2acd04" />
 
 <img width="840" height="637" alt="Figure1Screenshot" src="https://github.com/user-attachments/assets/67b97e28-33a0-4785-942a-649a4b922840" />
