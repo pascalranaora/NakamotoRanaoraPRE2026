@@ -23,7 +23,8 @@
 
 <img width="840" height="778" alt="Figure11Screenshot" src="https://github.com/user-attachments/assets/58eeca9e-dd26-4716-aef3-016f1146ed8f" />
 
-<img width="840" height="1080" alt="Variables" src="https://github.com/user-attachments/assets/60286b06-e340-4e44-90be-facde7e1ee03" />
+<img width="840" height="1174" alt="Variables" src="https://github.com/user-attachments/assets/359cf510-eac4-4195-b68d-9c0e468bea86" />
+
 
 
 
