@@ -1,15 +1,15 @@
 # Statistical Physics of Distributed Consensus PRE 2026
-<img width="840" height="861" alt="ArticlePlan" src="https://github.com/user-attachments/assets/c54d0057-650e-4dec-b7b8-43ccfd2acd04" />
+<img width="840" height="1140" alt="ArticlePlan" src="https://github.com/user-attachments/assets/9869a01b-e3e6-4daa-af98-9325bce2fc8d" />
 
 <img width="840" height="637" alt="Figure1Screenshot" src="https://github.com/user-attachments/assets/67b97e28-33a0-4785-942a-649a4b922840" />
 
-<img width="840" height="633" alt="Figure2Screenshot" src="https://github.com/user-attachments/assets/309da192-9fb3-4b52-9f1d-537c4c714988" />
+<img width="840" height="560" alt="Figure2Screenshot" src="https://github.com/user-attachments/assets/cc41f1da-4391-49df-8bf3-e3d748726933" />
 
-<img width="840" height="593" alt="Figure3Screenshot" src="https://github.com/user-attachments/assets/b2df71c8-48e1-4fb8-853f-5c18f6ddab1a" />
+<img width="840" height="550" alt="Figure3Screenshot" src="https://github.com/user-attachments/assets/db7223cd-d699-419e-af9a-c6042fdd2f64" />
 
-<img width="840" height="521" alt="Figure4Screenshot" src="https://github.com/user-attachments/assets/7247c777-8be5-4efc-9023-2b95452bcbc8" />
+<img width="840" height="502" alt="Figure4Screenshot" src="https://github.com/user-attachments/assets/d9b7958c-c592-44cd-afd0-095cf17dc9cb" />
 
-<img width="840" height="578" alt="Figure5Screenshot" src="https://github.com/user-attachments/assets/01eb34c7-d382-4812-b9d9-e55269c1dd8a" />
+<img width="840" height="582" alt="Figure5Screenshot" src="https://github.com/user-attachments/assets/0ecb03e6-794b-4690-b2c0-df37b79ee6a9" />
 
 <img width="840" height="854" alt="Figure6Screenshot" src="https://github.com/user-attachments/assets/d4eaddb1-4b13-41b3-8fc5-3d6aa8ae4e86" />
 
@@ -23,7 +23,8 @@
 
 <img width="840" height="778" alt="Figure11Screenshot" src="https://github.com/user-attachments/assets/58eeca9e-dd26-4716-aef3-016f1146ed8f" />
 
-<img width="840" height="1080" alt="Variables" src="https://github.com/user-attachments/assets/60286b06-e340-4e44-90be-facde7e1ee03" />
+<img width="840" height="1174" alt="Variables" src="https://github.com/user-attachments/assets/359cf510-eac4-4195-b68d-9c0e468bea86" />
+
 
 
 
